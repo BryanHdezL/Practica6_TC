@@ -1,0 +1,9 @@
+    Descripcion:
+        Creacion de un programa que realice el conteo del numero de veces que aparece un caracter
+        y el porcentaje en en el que el caracter ocupa en el texto.
+    Autores:
+        Hernandez Lopez Bryan
+        Martinez Islas Armando Samir
+    Fecha de creacion:
+        24/05/2022
+    Version: 1.0
